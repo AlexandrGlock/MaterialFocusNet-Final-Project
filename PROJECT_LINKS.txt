@@ -1,0 +1,8 @@
+MaterialFocusNet — Deep Learning Final Project
+Student: Abdullayev Namig
+
+Google Colab notebook:
+https://colab.research.google.com/drive/11XVpxZEz2z1RzJpUQywqjCbJDPmSs-6V
+
+YouTube video presentation:
+https://youtu.be/fgF1BTN_f-g
